@@ -3,3 +3,4 @@ spring:
     jdbc:
       repositories:
         enabled: false
+
