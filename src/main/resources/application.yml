@@ -3,4 +3,6 @@ spring:
     jdbc:
       repositories:
         enabled: false
-
+  jdbc:
+    template:
+      max-rows: -1
